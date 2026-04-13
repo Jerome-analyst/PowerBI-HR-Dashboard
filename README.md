@@ -11,15 +11,15 @@ The goal of this project is to transform raw HR data into meaningful insights th
 ## Dashboard Preview  
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/images/workforce_overview.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-HR-Dashboard/blob/main/Attrition%20.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/images/attrition_analysis.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-HR-Dashboard/blob/main/Workforce.png" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/images/compensation_satisfaction.png" width="500">
+  <img src="https://github.com/Jerome-analyst/PowerBI-HR-Dashboard/blob/main/Compensation%20%26%20Satisfaction.png" width="500">
 </p>
 
 ---
@@ -101,4 +101,3 @@ The dashboard aims to answer the following key questions:
 ## Author  
 
 Jerome Mendoza  
-Aspiring Data Analyst  
